@@ -4,3 +4,4 @@ chat_helpers
 socket
 .vscode
 setting.json
+.DS_Store
