@@ -5,3 +5,4 @@ socket
 .vscode
 setting.json
 .DS_Store
+*.DS_Store
